@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.python-version
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# TrendSift Specific
+logs/
+data/
+backend/search/__pycache__/
+backend/scraper/__pycache__/
+backend/analysis/__pycache__/
+backend/utils/__pycache__/
